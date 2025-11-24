@@ -1,9 +1,8 @@
-# Customer Satisfaction — Seaborn Visualization
+# Customer Satisfaction Visualization
 
-This repository contains a professional Seaborn barplot for customer analytics.
+Email: 22f3000565@ds.study.iitm.ac.in
 
-**Email:** 22f3000565@ds.study.iitm.ac.in
-
-## Files
-- `chart.py` — Python script to generate the visualization  
-- `chart.png` — Generated 512×512 barplot  
+This repository contains:
+- chart.py (Seaborn visualization script)
+- chart.png (512 × 512 professional chart)
+- README.md (contains required email)
